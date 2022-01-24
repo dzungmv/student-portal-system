@@ -7,6 +7,7 @@ Some function:
 + Department: Create, edit, delete notification...
 + Student(user): Create new post, change password, view notification, view another post, view personal...
 
+Make sure your device installed Nodejs + MongoDB
 Step by step:
 + Run mongoDB compass and login server
 + Open project folder and init terminal
