@@ -13,6 +13,3 @@ Step by step:
 + Open project folder and init terminal
 + Run: "$npm intall" to intall package as nodes_module folder
 + Run: "$npm start" to start project
-
-
-Co-Founder: vandung3101 + vingtieng
