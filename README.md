@@ -1,6 +1,6 @@
 # School-Website-using-Nodejs
 
-Environment: Nodejs[handlebars] + MongoDB[compass]
+Environment: Nodejs[express - handlebars] + MongoDB[compass]
 
 Some function:
 + Admin: create, edit, delete department...
